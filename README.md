@@ -1,7 +1,6 @@
 # Estruturas-de-Dados-I---UDF
-Claro! Aqui está o texto reformulado, com uma nova abordagem e sem usar os mesmos emojis:
 
-📂 **Organização do Repositório**  
+# 📂 **Organização do Repositório**  
 O repositório está estruturado de forma que cada tópico do estudo possui uma pasta dedicada, contendo arquivos explicativos (README.md) e exemplos práticos em código (exemplo.py).
 
 1️⃣ **Fundamentos das Estruturas de Dados**  
