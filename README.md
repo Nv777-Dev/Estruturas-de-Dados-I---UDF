@@ -2,7 +2,8 @@
 
 # 📂 **Organização do Repositório**  
 O repositório foi construído de forma que cada tópico do estudo possui uma pasta dedicada, contendo arquivos explicativos (README.md) e exemplos práticos em código (exemplo.py) para facilitar o entendimento e esclarecer dúvidas por meio de aplicações práticas.
-Veja o exemplo de código no arquivo [exemplo.py](scripts/exemplo.py).
+Cada seção do estudo está organizada em pastas, contendo arquivos explicativos (README.md) e exemplos práticos em código (`exemplo.py`).
+
 
 
 1️⃣ **Fundamentos das Estruturas de Dados**  
