@@ -1,4 +1,4 @@
-# Estruturas-de-Dados-I---UDF
+# Estruturas de Dados I - UDF
 
 # 📂 **Organização do Repositório**  
 O repositório está estruturado de forma que cada tópico do estudo possui uma pasta dedicada, contendo arquivos explicativos (README.md) e exemplos práticos em código (exemplo.py).
