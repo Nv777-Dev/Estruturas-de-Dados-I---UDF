@@ -1,6 +1,6 @@
 # **Apresentação às Estruturas de Dados**
 
-# ⚜️ **O que são as estruturas de dados?**
+# ⚜️ **O que são as Estruturas de Dados?**
 
 As estruturas de dados são métodos estruturados para guardar e administrar informações em sistemas informáticos, possibilitando operações eficazes como a inserção, pesquisa, eliminação e alteração de dados.  Elas atuam como elementos essenciais na elaboração de algoritmos, maximizando a utilização de recursos como tempo de processamento e memória.  No livro Data Structures and Algorithms in Python (Michael T. Goodrich, Roberto Tamassia e Michael H. Goldwasser), elas são destacadas como instrumentos cruciais para solucionar questões complexas através de métodos sistemáticos e escalonáveis.
 
