@@ -33,7 +33,7 @@ As estruturas de dados são métodos estruturados para guardar e administrar inf
 
 #### (Oracle Database): O Oracle Database, usa árvores binárias de busca (geralmente árvores B+) como parte de seu sistema de indexação para otimizar o acesso e a busca de dados. Esse tipo de estrutura é crucial para manter a eficiência no gerenciamento de grandes quantidades de dados e acelerar operações como pesquisa e inserção.
 
-# **Referências**
+# ⚜️ **Referências**
 
 #### Livro: Data Structures & Algorithms in Python
 #### Autores: Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser
