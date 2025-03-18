@@ -5,7 +5,7 @@ O repositório foi organizado de maneira que cada assunto estudado tem uma pasta
 
 # **Introdução às Estruturas de Dados**
 📁 Diretório: *Introdução*  
-📄 README.md: Introdução às estruturas de dados e sua importância no desenvolvimento de sistemas.
+📄 README.md: Introdução às estruturas de dados e sua importância no desenvolvimento de sistemas.,
 📄 Exemplo.py
 
 # **O Papel das Estruturas de Dados no Desenvolvimento de Software**  
