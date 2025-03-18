@@ -38,6 +38,7 @@ Em Python, variáveis são usadas para armazenar valores. Elas não precisam ser
 
 ## ◼️ **None:** Representa a ausência de valor, É usado para indicar que uma variável não tem valor atribuído.
 
+
 # ⚜️ **Referências**
 
 #### Livro: Data Structures & Algorithms in Python
