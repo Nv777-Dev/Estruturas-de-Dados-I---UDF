@@ -4,7 +4,7 @@ Em Python, variáveis são usadas para armazenar valores. Elas não precisam ser
 
 # ⚜️ **Tipos de Dados**
 
-## **Tipos Numéricos:**
+## 🟢 **Tipos Numéricos:**
 
 ### **Inteiros(int):** São usados para representar números inteiros positivos, negativos ou zero. Não têm casas decimais, como 1, 2, 3, etc.
 
@@ -12,7 +12,7 @@ Em Python, variáveis são usadas para armazenar valores. Elas não precisam ser
 
 ### **Complexos(complex):** São usados para representar números complexos, que consistem em uma parte real e uma parte imaginária, como 3 + 4j.
 
-## ⚜️ **Tipos de Dados Sequenciais**
+## 🟢 **Tipos de Dados Sequenciais**
 
 ### **Strings(str):** Sequências ordenadas de caracteres e são imutáveis, o que significa que não podem ser alteradas após a criação, como "Olá, Mundo!".
 
@@ -20,20 +20,20 @@ Em Python, variáveis são usadas para armazenar valores. Elas não precisam ser
 
 ### **Tuplas(tuple):** Coleções ordenadas e são imutáveis, o que significa que não podem ser alteradas após a criação, como (1, 2, 3).
 
-## ⚜️ **Mapeamentos**
+## 🟢 **Mapeamentos**
 
 ### **Dicionários(dict):** Conjuntos não ordenados de pares chave-valor e são mutáveis e são usados para armazenar pares chave-valor, permitindo acesso rápido aos valores por suas chaves, como {"nome": "João", "idade": 30}
 
-## ⚜️ **Conjuntos**
+## 🟢 **Conjuntos**
 
 ### **Sets(set):** Coleções desordenadas de elementos únicos e são usados para garantir que todos os elementos sejam únicos e são úteis para operações de conjuntos, como união e interseção, como {1, 2, 3}.
 
 ### **Frozensets(fronzenset):** Conjuntos imutáveis de elementos únicos e são usados quando um conjunto não deve ser alterado.
 
-## ⚜️ **Booleano**
+## 🟢 **Booleano**
 
 ### **Boolean(bool):** Valores lógicos, São usados para representar condições lógicas em programas, como True ou False.
 
-## ⚜️ **NoneType**
+## 🟢 **NoneType**
 
 ## **None:** Representa a ausência de valor, É usado para indicar que uma variável não tem valor atribuído.
