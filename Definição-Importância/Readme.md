@@ -1,4 +1,4 @@
-⚜️# **Definição e Importância das Estruturas de Dados no Desenvolvimento de Programas** 
+# ⚜️ **Definição e Importância das Estruturas de Dados no Desenvolvimento de Programas** 
 
 ### 🟢 **Definição:** Estruturas de dados são formas organizadas de armazenar e gerenciar informações em memória, permitindo operações eficientes como inserção, busca, remoção e modificação. Em Python, essas estruturas podem ser tanto embutidas (listas, dicionários, conjuntos e tuplas) quanto definidas pelo programador (pilhas, filas, árvores e grafos).
 
