@@ -12,8 +12,9 @@ O repositório foi organizado de maneira que cada assunto estudado tem uma pasta
 📄 [`Readme.md`](Definição-Importância/Readme.md): A Diferença Entre Estruturas de Dados Lineares e Não Lineares.  
 📄 [`Exemplo.py`](Definição-Importância/Exemplo.py): Exemplos de Dados Lineares e Dados Não Lineares.
 
-# **Conceitos Essenciais: Variáveis, Tipos de Dados e Alocação de Memória**  
-📁 Diretório: *Conceitos-Essenciais*  
+# **Conceitos Fundamentais: Variáveis, Tipos de Dados e Alocação de Memória**  
+📁 Diretório: *Conceitos-Fundamentais*
+📄 [`Readme.md`](Conceitos-Fundamentais/Variáveis-e-Tipos-de-Dados/Readme.md): Os Conceitos de Variáveis e Tipos de Dados.
 
 📁 Subdiretório: *Alocacao-Fixa*  
 📄 README.md: Explicação sobre a alocação de memória fixa.  
