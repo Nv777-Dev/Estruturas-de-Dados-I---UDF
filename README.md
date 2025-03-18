@@ -19,8 +19,8 @@ O repositório foi organizado de maneira que cada assunto estudado tem uma pasta
 
 📁 Subdiretório: *Variáveis-e-Tipos-de-Dados*  
 📄 [`Readme.md`](Conceitos-Fundamentais/Variáveis-e-Tipos-de-Dados/Readme.md): Os Conceitos de Variáveis e Tipos de Dados.
-
 📄 [`Exemplo.py`](Conceitos-Fundamentais/Variáveis-e-Tipos-de-Dados/Exemplo.py): Exemplos de Variáveis e Tipos de Dados.
+
 📁 Subdiretório: *Alocação-Estática*  
 📄 [`Readme.md`](Conceitos-Fundamentais/Alocação-Estática/Readme.md): Os Conceitos de Alocação de Memória Estática.  
 📄 [`Exemplo.py`](Conceitos-Fundamentais/Alocação-Estática/Exemplo.py): Exemplo de Alocação de Memória Estática.
