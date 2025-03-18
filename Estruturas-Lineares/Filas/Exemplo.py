@@ -1,3 +1,6 @@
+#Importando o "deque"
+# "deque": é uma fila de dois extremos que permite adicionar e remover elementos de forma eficiente tanto no início quanto no final.
+
 from collections import deque
 
 ##Filas
