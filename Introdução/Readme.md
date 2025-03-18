@@ -35,5 +35,5 @@ As estruturas de dados são métodos estruturados para guardar e administrar inf
 
 # **Referências**
 
-####Livro: Data Structures & Algorithms in Python
-####Autores: Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser
+#### Livro: Data Structures & Algorithms in Python
+#### Autores: Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser
