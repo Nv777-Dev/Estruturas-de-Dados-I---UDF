@@ -1,12 +1,12 @@
 # Estruturas de Dados I - UDF
 
 # 📂 **Organização do Repositório**  
-O repositório foi construído de forma que cada tópico do estudo possui uma pasta dedicada, contendo arquivos explicativos (`README.md`) e exemplos práticos em código (`exemplo.py`) para facilitar o entendimento e esclarecer dúvidas por meio de aplicações práticas.
+O repositório foi organizado de maneira que cada assunto estudado tem uma pasta específica, contendo documentos explicativos (como o 'README.md') e exemplos práticos em código (como o 'Exemplo.py'), para simplificar a compreensão e esclarecer incertezas através de exemplos práticos.
 
-
-# **Fundamentos das Estruturas de Dados**
-📁 Diretório: *Fundamentos*  
+# **Introdução às Estruturas de Dados**
+📁 Diretório: *Introdução*  
 📄 README.md: Introdução às estruturas de dados e sua importância no desenvolvimento de sistemas.
+📄 Exemplo.py
 
 # **O Papel das Estruturas de Dados no Desenvolvimento de Software**  
 📁 Diretório: *Papel-Estruturas*  
