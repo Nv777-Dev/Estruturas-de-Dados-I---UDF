@@ -7,10 +7,10 @@ O repositório foi organizado de maneira que cada assunto estudado tem uma pasta
 📁 Diretório: *Introdução*  
 📄 [`Readme.md`](Introdução/Readme.md): Explicação sobre o que são estruturas de dados e qual a sua importância para a ciência da computação.
 
-# **O Papel das Estruturas de Dados no Desenvolvimento de Software**  
-📁 Diretório: *Papel-Estruturas*  
-📄 README.md: Explicação sobre as distinções entre estruturas de dados lineares e não lineares.  
-📄 exemplo.py: Demonstração de como a escolha de estruturas de dados afeta o desempenho do código.
+# **Definição e importância das Estruturas de Dados no Desenvolvimento de Programas**  
+📁 Diretório: *Definição-Importância*  
+📄 [`Readme.md`](Definição-Importância/Readme.md): A Diferença Entre Estruturas de Dados Lineares e Não Lineares.  
+📄 [`Exemplo.py`](Definição-Importância/Exemplo.py): Exemplos de Dados Lineares e Dados Não Lineares.
 
 # **Conceitos Essenciais: Variáveis, Tipos de Dados e Alocação de Memória**  
 📁 Diretório: *Conceitos-Essenciais*  
