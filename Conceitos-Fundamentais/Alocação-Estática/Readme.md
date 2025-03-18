@@ -1,6 +1,6 @@
 # ⚜️ **Alocação Estática**
 
-## 🟢 **Definição:**  Na alocação estática, o espaço de memória é reservado durante o processo de compilação do programa. Isso significa que o tamanho da memória alocada é fixo e definido antes da execução do programa.
+### 🟢 **Definição:**  Na alocação estática, o espaço de memória é reservado durante o processo de compilação do programa. Isso significa que o tamanho da memória alocada é fixo e definido antes da execução do programa.
 
 # ⚜️ **Características**
 
