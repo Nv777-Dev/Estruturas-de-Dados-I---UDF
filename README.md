@@ -17,7 +17,7 @@ O repositório foi organizado de maneira que cada assunto estudado tem uma pasta
 # **Conceitos Fundamentais: Variáveis, Tipos de Dados e Alocação de Memória**  
 📁 Diretório: *Conceitos-Fundamentais*
 
-📁 Subdiretório: *Variáveis-e-Tipos-de-Dados*  
+📁 Subdiretório: *Variáveis-e-Tipos-de-Dados*
 📄 [`Readme.md`](Conceitos-Fundamentais/Variáveis-e-Tipos-de-Dados/Readme.md): Os Conceitos de Variáveis e Tipos de Dados.
 📄 [`Exemplo.py`](Conceitos-Fundamentais/Variáveis-e-Tipos-de-Dados/Exemplo.py): Exemplos de Variáveis e Tipos de Dados.
 
