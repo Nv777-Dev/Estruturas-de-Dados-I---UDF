@@ -62,4 +62,4 @@ O repositório foi organizado de maneira que cada assunto estudado tem uma pasta
 
 📄 [`Readme.md`](Aplicação-Prática/Readme.md): Problema Prático.  
 
-📄 [`Exemplo.py`](Aplicação-Prática/Exemplo.py): Resolução.
+📄 [`Resolução.py`](Aplicação-Prática/Resolução.py): Resolução.
