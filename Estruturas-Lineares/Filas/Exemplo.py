@@ -9,9 +9,8 @@ frutas.append("manga")  # Adiciona no final
 frutas.insert(0, "abacaxi")  # Adiciona no início
 
 # Remoção
-frutas.remove("banana")  # Remove o primeiro "banana"
+frutas.remove("banana")  # Remove o elemento "banana"
 frutas.pop(0)  # Remove o primeiro elemento
 
 # Acesso
-print(frutas[0])
-
+print(frutas[0])         #Saída: laranja
