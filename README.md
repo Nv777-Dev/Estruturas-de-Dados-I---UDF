@@ -3,11 +3,6 @@
 # 📂 **Organização do Repositório**  
 O repositório foi organizado de maneira que cada assunto estudado tem uma pasta específica, contendo documentos explicativos como o (`readme.md`)  e exemplos práticos em código como o (`Exemplo.py`).
 
-# **Introdução às Estruturas de Dados**
-📁 Diretório: *Introdução*  
-📄 README.md: Introdução às estruturas de dados e sua importância no desenvolvimento de sistemas.
-📄 Exemplo.py: Demonstração de como a escolha de estruturas de dados afeta o desempenho do código.
-
 # **O Papel das Estruturas de Dados no Desenvolvimento de Software**  
 📁 Diretório: *Papel-Estruturas*  
 📄 README.md: Explicação sobre as distinções entre estruturas de dados lineares e não lineares.  
