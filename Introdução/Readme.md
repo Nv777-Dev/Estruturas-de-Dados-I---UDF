@@ -20,3 +20,9 @@ As estruturas de dados são métodos estruturados para guardar e administrar inf
 #### (Google): O Google utiliza tabelas de hash em seu sistema de indexação e pesquisa para otimizar a recuperação de informações. Quando você faz uma pesquisa, o sistema usa hashing para armazenar e buscar rapidamente os dados indexados na sua base de dados.
 
 #### (Facebook): No Facebook, as tabelas de hash são usadas para armazenar e verificar as senhas dos usuários de maneira eficiente. Quando você faz login no Facebook, sua senha é processada por um algoritmo de hash antes de ser comparada ao valor armazenado no banco de dados. Isso permite que a plataforma verifique a senha sem precisar armazená-la diretamente, melhorando a segurança.
+
+## 2️⃣ **Listas Encadeadas**
+### **Exemplo: Aplicações de Processamento de Texto (Microsoft Word e Google Docs)**
+#### (Microsoft Word): Em processadores de texto como o Microsoft Word, listas encadeadas são usadas para armazenar e gerenciar textos de maneira eficiente. Isso permite a inserção e remoção rápidas de palavras, parágrafos e até imagens, sem precisar mover todo o conteúdo do documento.
+
+#### (Google Docs): O Google Docs permite que os usuários editem documentos colaborativamente em tempo real. Listas encadeadas podem ser usadas para gerenciar as edições, como inserção e remoção de texto, de forma eficiente. A estrutura de listas encadeadas permite armazenar as alterações de maneira dinâmica e facilita a navegação entre as versões do documento enquanto os usuários editam simultaneamente.
