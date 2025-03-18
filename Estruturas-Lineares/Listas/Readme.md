@@ -1,16 +1,16 @@
 # **Estruturas Lineares**
 
-# ⚜️ **Filas**
+# ⚜️ **Listas**
 
-###  **Filas são estruturas de dados lineares que seguem a política FIFO (First In, First Out), onde o primeiro elemento inserido é o primeiro a ser removido.**
+###  **Listas são estruturas de dados lineares que armazenam elementos em uma ordem específica. Elas são mutáveis, permitindo a inserção e remoção de elementos em qualquer posição.**
  
 ## ⚜️ **Principais Operações**
 
-### 🟢 **Inserção:** Adicionar elementos no final da fila usando .append() ou .enqueue().
+### 🟢 **Inserção:** Adicionar elementos em uma posição específica usando .insert() ou no final com .append().
 
-### 🟢 **Remoção:** Remover elementos do início da fila usando .popleft() ou .dequeue().
+### 🟢 **Remoção:** Remover elementos usando .remove() ou .pop().
 
-### 🟢 **Verificação de Vazio:** Verificar se a fila está vazia.
+### 🟢 **Acesso:** Acessar elementos por índice.
 
 # ⚜️ **Referências**
 
