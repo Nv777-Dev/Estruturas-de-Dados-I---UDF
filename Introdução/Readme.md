@@ -6,9 +6,11 @@ As estruturas de dados são métodos estruturados para guardar e administrar inf
 
 # **Importância na Ciência da Computação**
  
-Eficácia de Algoritmos: A seleção da estrutura apropriada tem um impacto direto no rendimento. Por exemplo, uma tabela de hash possibilita pesquisas com tempo fixo (0(1)), ao passo que uma lista encadeada pode demandar tempo linear (0(n)).
-Gestão de Memória: Estruturas como árvores binárias balanceadas (AVL) minimizam o desperdício de espaço e aprimoram a velocidade de acesso.
-Escalabilidade: Soluções para grandes volumes de dados e sistemas em tempo real requerem estruturas como grafos e filas de prioridade para lidar com grandes quantidades de informação.
+### **Segurança:** Estruturas como tabelas de hash são essenciais em sistemas de autenticação e criptografia, garantindo a proteção e integridade dos dados, como no armazenamento de senhas.
+
+### **Manutenção de Dados:** Facilitam a atualização, inserção e remoção de dados de forma eficiente, mantendo a integridade e consistência das informações armazenadas.
+
+### **Flexibilidade:** Fornecem soluções adaptáveis para diferentes tipos de problemas, oferecendo opções variadas como listas, árvores, grafos e tabelas que podem ser escolhidas conforme a necessidade de cada caso.
 
 # **Exemplos de Aplicação no Mundo Real**
 ## 1️⃣ **Tabelas de Hash**
