@@ -5,7 +5,7 @@ O repositório foi organizado de maneira que cada assunto estudado tem uma pasta
 
 # **Introdução às Estruturas de Dados**  
 📁 Diretório: *Introdução*  
-📄 [`Readme.md`](Introdução/readme.md): Explicação sobre o que são estruturas de dados e qual a sua importância para a ciência da computação.  
+📄 [`Readme.md`](Introdução/Readme.md): Explicação sobre o que são estruturas de dados e qual a sua importância para a ciência da computação.  
 📄 [`Exemplo.py`](Introdução/Exemplo.py): Demonstração de um sistema de detecção de fraudes.
 
 # **O Papel das Estruturas de Dados no Desenvolvimento de Software**  
