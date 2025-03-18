@@ -1,5 +1,7 @@
 # ⚜️ **Estruturas Lineares**
 
+## ⚜️ **Listas**
+
 ### 🟢 **Listas:** Listas são estruturas de dados lineares que armazenam elementos em uma ordem específica. Elas são mutáveis, permitindo a inserção e remoção de elementos em qualquer posição.
  
 ## ⚜️ **Principais Operações**
