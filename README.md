@@ -29,7 +29,7 @@ O repositório foi organizado de maneira que cada assunto estudado tem uma pasta
 📄 [`Readme.md`](Conceitos-Fundamentais/Alocação-Dinâmica/Readme.md): Os Conceitos de Alocação de Memória Dinâmica.  
 📄 [`Exemplo.py`](Conceitos-Fundamentais/Alocação-Dinâmica/Exemplo.py): Exemplo de Alocação de Memória Dinâmica.
 
-4️⃣ **Visão Geral das Estruturas Lineares: Listas, Filas e Pilhas**  
+# **Visão Geral das Estruturas Lineares: Listas, Filas e Pilhas**  
 📁 Diretório: *Estruturas-Lineares*  
 
 📁 Subdiretório: *Filas*  
