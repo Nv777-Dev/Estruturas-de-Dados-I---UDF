@@ -22,19 +22,19 @@
 
 ## ⚜️ **Exemplo de Funcionamento**
 
-#### ◼️ **Fila inicial(vazia): []
+#### ◼️ **Fila inicial(vazia): []**
 
-#### ◼️ **Cliente 1 chega e entra na fila: [Cliente 1]
+#### ◼️ **Cliente 1 chega e entra na fila: [Cliente 1]**
 
-#### ◼️ **Cliente 2 chega e entra na fila: [Cliente 1, Cliente 2]
+#### ◼️ **Cliente 2 chega e entra na fila: [Cliente 1, Cliente 2]**
 
-#### ◼️ **Cliente 3 chega e entra na fila: [Cliente 1, Cliente 2, Cliente 3]
+#### ◼️ **Cliente 3 chega e entra na fila: [Cliente 1, Cliente 2, Cliente 3]**
 
-#### ◼️ **Cliente 1 é atendido e sai da fila: [Cliente 2, Cliente 3]
+#### ◼️ **Cliente 1 é atendido e sai da fila: [Cliente 2, Cliente 3]**
 
-#### ◼️ **Cliente 2 é atendido e sai da fila: [Cleinte 3]
+#### ◼️ **Cliente 2 é atendido e sai da fila: [Cleinte 3]**
 
-#### ◼️ **Cliente 3 é atendido e sai da fila: []
+#### ◼️ **Cliente 3 é atendido e sai da fila: []**
 
 # ⚜️ **Conclusão**
 ## 🟢 **A fila é uma excelente escolha para esse problema, pois sua natureza FIFO é ideal para modelar processos que requerem ordem de chegada, como no caso de atendimento a clientes em caixas de supermercado. Ela garante que os clientes sejam atendidos de forma justa e eficiente.**
